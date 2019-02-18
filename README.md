@@ -1,6 +1,6 @@
 # CheckIsDivisible
 
-This PHP script checks if a number is divisible by a divisor using finite automaton.
+PHP script which checks if a number is divisible by a divisor using finite automaton.
 If the number is divisible by the divisor, the script will confirm it.
 If the number is NOT divisible by the divisor, the script will return the remainder.
 
