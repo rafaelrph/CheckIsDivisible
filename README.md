@@ -10,7 +10,7 @@ PHP 5.6
 
 # Running
 
-On the command prompt, inside of the project's directory, run the following command:
+On the command prompt, run the following command on the project's folder:
 
 php index.php NUMBER DIVISOR
 * NUMBER = number which is going to be checked
