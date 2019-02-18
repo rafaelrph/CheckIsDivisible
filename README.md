@@ -2,7 +2,7 @@
 
 This PHP script checks if a number is divisible by a divisor using finite automaton.
 If the number is divisible by the divisor, the script will confirm it.
-If the number is NOT disivible by the divisor, the script will return the remainder.
+If the number is NOT divisible by the divisor, the script will return the remainder.
 
 # Requirements
 
@@ -20,4 +20,8 @@ Examples:
 
 php index.php 12 3
 
-php index.php 25 4
+RESULT: 12 is divisible by 3
+
+php index.php 25 6
+
+RESULT: 25 is NOT divisible by 6. Remainder = 1
